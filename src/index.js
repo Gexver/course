@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Heading, Footer } from "./components";
 import SocialButton from './socialbutton'
 import "./styles.css";
 
