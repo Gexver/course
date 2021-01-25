@@ -10,15 +10,15 @@ Lets start.
 Create React App is a great environment for learning React and the best way to get started building a new single page React app.
 The tool sets up the environment to take advantage of the latest JavaScript capabilities, optimizes the application for production, and provides comfort during development. # You will need Node.js 8.10 or higher and npm 5.6 or higher on your computer. To create a project, run the command:
 
-# =====     =====     =====
+=====     =====     =====
 # $ npx create-react-app "name"
-# =====     =====     =====
+=====     =====     =====
 
 # The "name" subject is the name of your folder, the path for the React Application. In my case the name was "my-app".
 # So the command looks like:
-# =====     =====     =====
+=====     =====     =====
 $ npx create-react-app "my-app"
-# =====     =====     =====
+=====     =====     =====
 
 # "npx" is a package launcher available in npm 5.2 and higher.
 # To check the React workability, we need to open our folder with the React application:
